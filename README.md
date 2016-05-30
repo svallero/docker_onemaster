@@ -1,2 +1,2 @@
-# docker_one_fss
+# docker_one
 Dockerfiles for containerized OpenNebula installation on CentOS7. 
