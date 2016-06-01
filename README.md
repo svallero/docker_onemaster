@@ -1,4 +1,4 @@
-# docker_one
+# docker_onemaster
 Dockerfiles for containerized OpenNebula installation on CentOS7. 
 
 ONEMASTER:
