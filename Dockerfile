@@ -4,6 +4,7 @@ COPY start.sh /
 
 # Where is the sqlite database written? Should it go in some persistent volume?
 VOLUME [/var/log/one]
+VOLUME [/var/lib/one]
 
 EXPOSE 2633
 
